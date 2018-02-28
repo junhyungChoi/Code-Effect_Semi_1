@@ -8,6 +8,7 @@ Code Effect
 학생,
 
 사람_Human(코딩이 주는 신체변화)
+
 개발자
 번호(PK), 이름(name), 비밀번호(pw), 스트레스(stress) 지수, 얼굴표정(face), 피로도지수(piro), 등록시간(date)
 
